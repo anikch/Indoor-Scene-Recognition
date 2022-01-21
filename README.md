@@ -4,8 +4,7 @@ The dataset has a collection of about 15000+ labeled images belonging to 67 cate
 airport_inside, auditorium, bakery, bathroom, bookstore, casino, church_inside, grocerystore, operating_room, warehouse  Objective is to create a model that will able to classify images into these 10 categories.
 
 # Approach:
-- Created training and validation dataset with required preprocessing.
-- Vizualized training dataset.
+- Created training and validation dataset with required preprocessing and vizualized training dataset.
 ![download (1)](https://user-images.githubusercontent.com/77941537/150504708-3871e63f-9471-4524-8542-b8c7e84551fe.png)
 
 - Created Data Augmentationlayer using appropiate augmentation techniques and vizualized the augmented data.
